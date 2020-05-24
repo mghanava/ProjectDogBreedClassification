@@ -1,1 +1,2 @@
 # ProjectDogBreedClassification
+This projects consistes of multiple sections. One main section is to design a CNN from scratch to predict dog breed from the provided image. Second big part is to customize and train a pre-trained model to do similar job. It is clear that a pre-trained model on quite a million image is more competent at extracting features and generalizing the image classification compared to a limited training dataset provided here.   
