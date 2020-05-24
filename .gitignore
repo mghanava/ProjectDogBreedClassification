@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+dogImages.zip
+dogImages/
+lfw.zip
+lfw/
+testImageSamples/
+model_scratch.pt
+model_transfer.pt
+
